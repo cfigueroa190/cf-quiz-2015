@@ -10,7 +10,7 @@
 	  href='/stylesheets/wide.css' />
     <link rel='stylesheet' 
  	  type="text/css" 
-	  media="only screen and (max-width:680px)"
+	  media="only screen and (max-width:480px)"
 	  href='/stylesheets/smartphone.css' />    
   </head>
 
@@ -27,7 +27,8 @@
 	  <%- body %>
 	</section>
 	<footer class="main" id="f1">
-	  <a href="https://es.wikipedia.org/wiki/Quiz">¿Qué es un quiz?</a>
+	  <p><a href="https://es.wikipedia.org/wiki/Quiz">¿Qué es un quiz?</a></p>
+	  <p><a href="https://github.com/cfigueroa190/cf-quiz-2015">Mi proyecto en Github</a></p>
 	</footer>
     </div>
   </body>
