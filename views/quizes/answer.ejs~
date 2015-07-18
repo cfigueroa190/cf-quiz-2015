@@ -1,2 +1,2 @@
-     <%= respuesta %> 
+  <p>   <%= respuesta %> </p>
 
