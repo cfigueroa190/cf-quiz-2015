@@ -1,4 +1,4 @@
-* 			{margin:0px;  padding: 50px;}
+* 			{margin:0px;  padding: 0px;}
 body			{font: 16px Georgia, serif;}
 
 #page-wrap 		{margin:2% auto; color:white;}
